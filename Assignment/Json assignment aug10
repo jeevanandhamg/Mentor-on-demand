@@ -1,0 +1,1 @@
+<script>var obj, i, j, x = "";obj = {  "Name":"Jeeva",  "age":21,  "Course": [    {"name":"Biology", "chapter":[ "Plants","photosynthesis", "human anatomy"]},    {"Name":"Chemistry", "chapter":["Atom", "quantum", "thermodynamics"]},    {"Name":"Computer", "chapter":["Java", "C", "python"]}  ]
